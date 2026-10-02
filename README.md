@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gero0x4D2
+- 👋 Hi
 
 <!---
 Gero0x4D2/Gero0x4D2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
